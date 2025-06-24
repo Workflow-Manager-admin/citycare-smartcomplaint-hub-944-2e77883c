@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/citycare-smartcomplaint-hub-944-2e77883c/backend_workspace/backend"
+}
